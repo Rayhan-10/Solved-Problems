@@ -4,3 +4,5 @@
 >Odd or Even: Check if a number is odd or even and print the result.
 ## Problem-3
 >Max of Three Numbers: Write a program that takes three numbers as input and outputs the largest one.
+## Problem-4
+>Smallest of Three Numbers: Write a program to find the smallest of three numbers.
