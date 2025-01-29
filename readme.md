@@ -6,3 +6,5 @@
 >Max of Three Numbers: Write a program that takes three numbers as input and outputs the largest one.
 ## Problem-4
 >Smallest of Three Numbers: Write a program to find the smallest of three numbers.
+## Problem-5
+>Sum of First N Numbers: Write a program that finds the sum of the first N natural numbers.
