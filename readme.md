@@ -10,3 +10,7 @@
 >Sum of First N Numbers: Write a program that finds the sum of the first N natural numbers.
 ## Problem-6
 >Divisibility Test: Check whether a number is divisible by both 3 and 5.
+## problem-7
+>Reverse a Number: Write a program that reverses the digits of a given number.
+## problem-8
+>Swap two Number: Write a program that swap two number without using temp variable & arithmetic operator.
